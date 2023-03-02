@@ -46,6 +46,8 @@ https://github.com/IGrok2/Java/blob/main/Uzdevums4/src/uzdevums4/Uzdevums4.java
 Sastādīt programmu, kas nosaka, cik un kādi atrisinājumi būs kvadrātvienādojumam ax2+bx+c=0 (mainīgos a, b un c ievada lietotājs).
 [https://github.com/IGrok2/Java/blob/main/Uzdevums4/src/uzdevums4/Uzdevums4.java](https://github.com/IGrok2/Java/blob/main/Uzdevums5/src/uzdevums5/Uzdevums5.java)
 
+# 02.03.2023
+
 8.3.1
 Piramidas 
 https://github.com/IGrok2/Java/blob/main/Uzd_8_3_1/src/uzd_8_3_1/Uzd_8_3_1.java
