@@ -46,4 +46,17 @@ https://github.com/IGrok2/Java/blob/main/Uzdevums4/src/uzdevums4/Uzdevums4.java
 Sastādīt programmu, kas nosaka, cik un kādi atrisinājumi būs kvadrātvienādojumam ax2+bx+c=0 (mainīgos a, b un c ievada lietotājs).
 [https://github.com/IGrok2/Java/blob/main/Uzdevums4/src/uzdevums4/Uzdevums4.java](https://github.com/IGrok2/Java/blob/main/Uzdevums5/src/uzdevums5/Uzdevums5.java)
 
+8.3.1
+Piramidas 
+https://github.com/IGrok2/Java/blob/main/Uzd_8_3_1/src/uzd_8_3_1/Uzd_8_3_1.java
+
+Uzd 8_3_2
+Cik ciparts in 15 expale cipars is 2
+https://github.com/IGrok2/Java/blob/main/Uzd%208_3_2/src/uzd/pkg8_3_2/Uzd8_3_2.java
+
+
+8.3.3
+Frends
+https://github.com/IGrok2/Java/blob/main/Uzd_8_3_3/src/uzd_8_3_3/Uzd_8_3_3.java
+
 If you get it from my github repository then I'm not worried if you have a problem!
